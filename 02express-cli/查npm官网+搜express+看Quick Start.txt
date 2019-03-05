@@ -1,0 +1,5 @@
+﻿npm install -g express-generator@4
+之后有全局命令后express
+新建项目express 项目名
+npm install【因为项目里面有份package.json】
+运行项目 npm start = npm run start
