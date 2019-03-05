@@ -1,0 +1,8 @@
+﻿npm install
+安装multer模块(安装后若不能运行，报错，重新安装node-module)
+查看public/upload.html
+查看routes/upload.js
+新建uploads文件夹
+查看app.js【把新建的uploads设置为静态资源文件夹，设置/upload路由】
+npm start
+http://localhost:3000/upload.html
